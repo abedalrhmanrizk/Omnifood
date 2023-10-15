@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Omnifood](https://omnifood.vercel.app/)
+[Omnifood](https://omnifoodlanding.vercel.app/)
 
 ## Screenshots
 
